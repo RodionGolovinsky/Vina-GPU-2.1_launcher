@@ -1,5 +1,4 @@
 
-from vina import Vina
 import os
 import sys
 sys.path.append('..')
